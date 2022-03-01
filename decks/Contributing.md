@@ -13,7 +13,17 @@ This can be changed for subjects which don't have a nice order. However, please 
 This is used for when you want to add a 
 Steps:  
 1. Click into the directory.
-2. Click Add file, and upload file.
-3. Drag and drop your file and click propose changes. (
+2. Click `Add file`, and then `Upload file`.
+3. Drag and drop your file and click `Propose changes`. (Collaborators can just click `Commit changes`)
 
 ### Create new directory
+A new directory need to be created for missing subjects, topics or subtopics.  
+
+Steps to create one:  
+1. Click into the lowest directory possible before needing to create a new directory.
+2. Click `Add file` and then `Create new file`
+3. Type in the name of your folder, and put a `/` after it to make a directory. EXAMPLE: `/decks/name-of-file/`
+4. Repeat step 3 for as deep as you want to directories to go.
+5. Create a `README.md` file for your topic, this does not need to have anything in it, and is just there as you cannot create an empty github directory.
+6. Click `Propose changes` (Callaborators will click `Commit changes`)
+7. Follow the rest of the steps in [Adding a new deck to an existing directory](### Adding a new deck to an existing directory) to upload a new deck
