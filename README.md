@@ -8,6 +8,7 @@ Joshua
 Adam  
 Magda  
 Meghan  
+
 ## Subjects
 English:    Mihira, Joshua  
 Maths:      Adam  
@@ -26,3 +27,6 @@ German:     NO MAINTAINER
 Art:        Magda  
 Drama:      NO MAINTAINER  
 RS:         Joshua  
+
+## Contributing
+To add a new deck, click into /decks and click on
