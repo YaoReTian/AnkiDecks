@@ -29,4 +29,4 @@ Drama:      NO MAINTAINER
 RS:         Joshua  
 
 ## Contributing
-To add a new deck, please read [Contributing.md](https://github.com/YaoReTian/AnkiDecks/blob/main/decks/Contributing.md)
+To add a new deck, please read [Contributing.md](https://github.com/YaoReTian/AnkiDecks/blob/main/decks/)
