@@ -29,4 +29,4 @@ Drama:      NO MAINTAINER
 RS:         Joshua  
 
 ## Contributing
-To add a new deck, click into /decks and click on
+To add a new deck, click into (./decks) and click on
