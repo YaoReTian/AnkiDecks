@@ -10,7 +10,7 @@ Magda
 Meghan  
 
 ## Subjects
-English:    Mihira, Joshua  
+English:    Mihira, Joshua, Magda  
 Maths:      Adam  
 Chemistry:  Martin  
 Biology:    Joshua (except bisection pls no anything but that)  
@@ -18,10 +18,10 @@ DT:         Joshua
 Physics:    NO MAINTAINER  
 CS:         Martin, Meghan  
 Geography:  Joshua, Meghan  
-History:    Martin  
+History:    Martin, Magda (Elizabeth only)  
 Business:   NO MAINTAINER (Does anyone even take business here?)  
 Sociology:  Adam  
-French:     Magda  
+French:     Magda, Noah (can help too)  
 Spanish:    NO MAINTAINER  
 German:     NO MAINTAINER  
 Art:        Magda  
