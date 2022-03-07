@@ -9,6 +9,7 @@ Adam
 Magda  
 Meghan  
 Noah  
+Izaan  
 
 ## Subjects
 English:    Mihira, Joshua, Magda  
