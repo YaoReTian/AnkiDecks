@@ -25,5 +25,5 @@ Steps to create one:
 3. Type in the name of your folder, and put a `/` after it to make a directory. EXAMPLE: `/decks/name-of-file/`
 4. Repeat step 3 for as deep as you want to directories to go.
 5. Create a `README.md` file for your directory, this does not need to have anything in it, and is just there as you cannot create an empty github directory. However, if possible, please edit it to be more clear as to what are in the decks.
-6. Click `Propose changes` (Callaborators will click `Commit changes`)
+6. Click `Propose changes` (Collaborators will click `Commit changes`)
 7. Follow the rest of the steps in [Adding a new deck to an existing directory](#adding-a-new-deck-to-an-existing-directory) to upload a new deck
