@@ -21,7 +21,7 @@ Physics:    NO MAINTAINER
 CS:         Martin, Meghan  
 Geography:  Joshua, Meghan  
 History:    Martin, Magda (Elizabeth only)  
-Business:   NO MAINTAINER (Does anyone even take business here?)  
+Business:   Izaan  
 Sociology:  Adam  
 French:     Magda, Noah (can help too)  
 Spanish:    NO MAINTAINER  
