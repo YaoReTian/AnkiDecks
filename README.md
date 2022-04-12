@@ -17,7 +17,7 @@ Maths:      Adam
 Chemistry:  Martin  
 Biology:    Joshua (except bisection pls no anything but that)  
 DT:         Joshua  
-Physics:    NO MAINTAINER  
+Physics:    Izaan (previously no maintainer will do this part for time being )
 CS:         Martin, Meghan  
 Geography:  Joshua, Meghan  
 History:    Martin, Magda (Elizabeth only)  
