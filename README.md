@@ -20,7 +20,7 @@ Chemistry:  Martin
 Biology:    Joshua (except bisection pls no anything but that)  
 DT:         Joshua  
 Physics:    Izaan (previously no maintainer will do this part for time being )  
-CS:         COMPLETED  
+CS:         **COMPLETED**  
 Geography:  Joshua, Meghan  
 History:    Martin, Magda (Elizabeth only)  
 Business:   Izaan  
