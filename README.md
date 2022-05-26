@@ -23,7 +23,7 @@ Physics:    Izaan (previously no maintainer will do this part for time being ), 
 CS:         **COMPLETED**  
 Geography:  Joshua, Meghan  
 History:    Martin, Magda (Elizabeth only)  
-Business:   Izaan  
+Business:   **COMPLETED**  
 Sociology:  Adam  
 French:     Magda, Noah (can help too)  
 Spanish:    NO MAINTAINER  
