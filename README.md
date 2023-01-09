@@ -1,7 +1,7 @@
 # AnkiDecks
 A repository for GCSE anki decks for "helping our futre selves".
 
-## Subjects
+## Subjects status
 Note: even if a subject says 'completed', it still might have errors, please report them to me if you find any.  
   
 English:    
